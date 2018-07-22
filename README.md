@@ -1,5 +1,17 @@
 # birdwatch
 
+## Instructions
+To run the server on your system:
+
+Make sure you have dep installed
+Run dep ensure to install dependencies
+Run go build to create the binary (blog_example__go_web_app)
+Run the binary : ./blog_example__go_web_app
+To run tests:
+
+Run dep ensure to install dependencies
+Run go test ./...
+
 ## Task 1 Set up and test main handler.
 ## Task 2 test routes.
 ## Task 3 test for non existing routes and setting up static. file sever should be complete.
