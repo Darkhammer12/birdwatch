@@ -4,4 +4,5 @@
 ## Task 2 test routes.
 ## Task 3 test for non existing routes and setting up static file sever should be complete.
 ## Task 4 adding tests to see if router has access
-## Task 5 modified router to access assets. 
+## Task 5 modified router to access assets.
+## Task 6 Made a one page browser application
